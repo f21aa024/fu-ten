@@ -114,7 +114,7 @@ header {
 
 }
 .top_logo{
-  background: url(images/flower.png) no-repeat 100% 100% fixed;
+  background: url(../images/flower.png) no-repeat 100% 100% fixed;
     background-size: cover;
 	-webkit-background-size: cover;
 	text-align: center;
@@ -142,7 +142,7 @@ header {
 /* mainimg */
 /* ---------sec1始まり-------- */
 .sec1 {
-  background: linear-gradient(to bottom, transparent 0%, transparent 70%, rgb(42, 43, 43) 100%), url(images/overview_back.png);
+  background: linear-gradient(to bottom, transparent 0%, transparent 70%, rgb(42, 43, 43) 100%), url(../images/overview_back.png);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 200px 0px 200px 0px;
